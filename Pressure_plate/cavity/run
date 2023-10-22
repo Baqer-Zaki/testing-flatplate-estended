@@ -1,0 +1,4 @@
+
+blockMesh
+icoFoam
+touch pressure_plate.foam
